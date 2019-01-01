@@ -48,7 +48,7 @@
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/text_poor"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="111dp"
+        android:layout_centerVertical="true"
         android:contentDescription="@string/coal_image"
         app:srcCompat="@drawable/coal" />
 </RelativeLayout>
