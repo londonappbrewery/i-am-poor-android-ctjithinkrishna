@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="iam">I Am</string>
+    <string name="poor">Poor</string>
     <string name="coal_image">This is a coal image to denote poverty</string>
 </resources>
